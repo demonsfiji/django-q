@@ -265,3 +265,4 @@ Acknowledgements
     :alt: Documentation Status
     :scale: 100
     :target: https://django-q.readthedocs.org/
+instalar.ANDROID.15.0
